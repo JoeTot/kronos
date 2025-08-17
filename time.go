@@ -1,3 +1,4 @@
+// adding a new comment for snippet scanning
 package kronos
 
 import (
